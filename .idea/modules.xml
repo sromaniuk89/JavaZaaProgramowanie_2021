@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaZaaProgramowanie_III_21.iml" filepath="$PROJECT_DIR$/JavaZaaProgramowanie_III_21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZadaniaDzien1/ZadaniaDzien1.iml" filepath="$PROJECT_DIR$/ZadaniaDzien1/ZadaniaDzien1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZadaniaDzien2/ZadaniaDzien2.iml" filepath="$PROJECT_DIR$/ZadaniaDzien2/ZadaniaDzien2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZadaniaDzien3/ZadaniaDzien3.iml" filepath="$PROJECT_DIR$/ZadaniaDzien3/ZadaniaDzien3.iml" />
+    </modules>
+  </component>
+</project>
